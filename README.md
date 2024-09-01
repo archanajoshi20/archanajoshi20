@@ -1,3 +1,4 @@
+![logo](https://github.com/archanajoshi20/archanajoshi20/blob/main/WhatsApp%20Image%202024-09-01%20at%201.38.38%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Archana Joshi</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
