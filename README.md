@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archanajoshi20&label=Profile%20views&color=0e75b6&style=flat" alt="archanajoshi20" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Project**
+- 🔭 I’m currently working on **Web Developments** as well as **Machine Learning** projects.
 
 - 🌱 I’m currently learning **Compiler Design,DAA,JAVA programming**
 
