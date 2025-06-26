@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently working on **Web Developments** as well as **Machine Learning** projects.
 
-- 🌱 I’m currently learning **Compiler Design,DAA,JAVA programming**
 
 - 📫 How to reach me **archanajoshi763@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uQzWPX7jqtBWWVWl1Tt8y724G5VQe9X5/view?usp=drivesdk](https://drive.google.com/file/d/1uQzWPX7jqtBWWVWl1Tt8y724G5VQe9X5/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
