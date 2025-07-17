@@ -4,11 +4,6 @@
 
 <img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b9527t1zsvc21ih1am0cvnzpcib0e3ncvw907qw12f0m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archanajoshi20&label=Profile%20views&color=0e75b6&style=flat" alt="archanajoshi20" /> </p>
-
-- 🔭 I’m currently working on **Web Developments** as well as **Machine Learning** projects.
-
-
 - 📫 How to reach me **archanajoshi763@gmail.com**
 
 
