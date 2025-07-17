@@ -39,11 +39,9 @@
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
+  <!-- Cyber Security badge -->
+  <a href="https://en.wikipedia.org/wiki/Computer_security" target="_blank">
+    <img src="https://img.shields.io/badge/-Cyber%20Security-blueviolet?style=flat&logo=security&logoColor=white" alt="Cyber Security" width="100" height="40"/>
+  </a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archanajoshi20&show_icons=true&locale=en&layout=compact" alt="archanajoshi20" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archanajoshi20&show_icons=true&locale=en" alt="archanajoshi20" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archanajoshi20&" alt="archanajoshi20" /></p>
